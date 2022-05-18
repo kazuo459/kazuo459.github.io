@@ -81,5 +81,5 @@ training and mentorship to new technicians. Create in-house diagrams, summary gu
 
 ## Education
 
-- B.A. in Business Entrepreneurship | University of Hawaii at Manoa
-- Liberal Arts | Leeward Community College
+- B.A. in Business Entrepreneurship - University of Hawaii at Manoa
+- Liberal Arts - Leeward Community College

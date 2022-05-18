@@ -17,7 +17,7 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 [Code Samples](https://github.com/kazuo459/portfolio-scripts)
 
-`Note: All of my professional work up until this point is confidential. In my free time, I am working on highlighting and displaying my skills through my personal [Github](https://github.com/kazuo459) site.`
+**Note:** All of my professional work up until this point is confidential. In my free time, I am working on highlighting and displaying my skills through my personal [Github](https://github.com/kazuo459) site.
 
 ## Work Experience
 

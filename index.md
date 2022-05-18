@@ -1,4 +1,4 @@
-# Evan Kuranishi
+# Evan Kazuo Kuranishi
 Technical Writer | System Administrator | Developer
 
 ## About Me

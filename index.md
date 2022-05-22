@@ -15,6 +15,12 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 [Writing Sample](https://github.com/kazuo459/writing-samples/blob/main/documentation-management-solution.md)
 
+[Microblog Example](https://kazuo459-microblog.herokuapp.com) - Highlights my work with following technologies:
+- HTML/CSS
+- Python/Flask/Jinja2
+- Heroku
+- MongoDB
+
 [Code Samples](https://github.com/kazuo459/portfolio-scripts)
 
 **Note:** All of my professional work up until this point is confidential. In my free time, I am working on highlighting and displaying my skills through my personal [Github](https://github.com/kazuo459) site.
@@ -57,15 +63,16 @@ training and mentorship to new technicians. Create in-house diagrams, summary gu
 - Apple Hardware
 - Apple Software
 - Atlassian Systems
-- Backend Technologies (Django, Flask)
+- Backend Technologies (Django, Flask, Jinja2)
 - Confluence
 - Content Management Systems
-- Frontend Technologies (HTML, CSS, Bootstrap)
+- Frontend Technologies (HTML, CSS, Bootstrap, JavaScript, jQuery)
 - Git, Github
 - Identity Management
 - iWork
 - Jira
 - Learning Management Systems
+- MongoDB
 - Project Management Python
 - Quip
 - Tableau

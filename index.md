@@ -73,7 +73,8 @@ training and mentorship to new technicians. Create in-house diagrams, summary gu
 - Jira
 - Learning Management Systems
 - MongoDB
-- Project Management Python
+- Project Management 
+- Python
 - Quip
 - Tableau
 - Technical Writing

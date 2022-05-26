@@ -23,6 +23,11 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 - This writing sample highlights my skills in writing Technical Documentation. 
 
+[Device Support Reference Guide](https://github.com/kazuo459/writing-samples/blob/main/device-support-reference-guide.md)
+
+- This writing sample is a small excerpt of a Reference Guide I created. 
+- The audience of this Reference Guide is Jr. Administrators, and its purpose is to provide a quick guide for common troubleshooting tasks that are performed. 
+
 ### Coding Samples
 
 [Microblog Example](https://kazuo459-microblog.herokuapp.com) - Highlights my work with following technologies:

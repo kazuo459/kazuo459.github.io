@@ -13,7 +13,17 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 ## Links
 
-[Writing Sample](https://github.com/kazuo459/writing-samples/blob/main/documentation-management-solution.md)
+### Writing Samples
+
+[Documentation Management Solution](https://github.com/kazuo459/writing-samples/blob/main/documentation-management-solution.md)
+
+- This writing sample highlights my skills in writing Process Documentation.
+
+[Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
+
+- This writing sample highlights my skills in writing Technical Documentation. 
+
+### Coding Samples
 
 [Microblog Example](https://kazuo459-microblog.herokuapp.com) - Highlights my work with following technologies:
 - HTML/CSS
@@ -21,7 +31,7 @@ I am a self-motivated and driven individual who loves learning, building solutio
 - Heroku
 - MongoDB
 
-[Code Samples](https://github.com/kazuo459/portfolio-scripts)
+[Additional Code Samples](https://github.com/kazuo459/portfolio-scripts)
 
 **Note:** All of my professional work up until this point is confidential. In my free time, I am working on highlighting and displaying my skills through my personal [Github](https://github.com/kazuo459) site.
 

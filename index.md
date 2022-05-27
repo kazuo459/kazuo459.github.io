@@ -15,18 +15,23 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 ### Writing Samples
 
-[Documentation Management Solution](https://github.com/kazuo459/writing-samples/blob/main/documentation-management-solution.md)
-
-- This writing sample highlights my skills in writing Process Documentation.
-
 [Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
 
-- This writing sample highlights my skills in writing Technical Documentation. 
+- This writing sample highlights my skills in writing Technical Documentation.
+- For this exercise, I guide a reader through steps required to build a basic Python application to begin gathering and automating reports. 
 
 [Device Support Reference Guide](https://github.com/kazuo459/writing-samples/blob/main/device-support-reference-guide.md)
 
 - This writing sample is a small excerpt of a Reference Guide I created. 
 - The audience of this Reference Guide is Jr. Administrators, and its purpose is to provide a quick guide for common troubleshooting tasks that are performed. 
+
+[Documentation Management Solution](https://github.com/kazuo459/writing-samples/blob/main/documentation-management-solution.md)
+
+- This writing sample highlights my skills in writing Process Documentation.
+
+[Python Jamf API Reference Guide](https://github.com/kazuo459/writing-samples/blob/main/python-jamf-api-guide.md)
+
+- This writing sample highlights my skills in writing Technical Documentation Reference Guides and in writing Python code to interface with the Jamf API.
 
 ### Coding Samples
 

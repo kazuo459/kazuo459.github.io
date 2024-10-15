@@ -15,6 +15,11 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 ### Writing Samples
 
+[AWS Cloud Development Kit (AWS CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+
+- Lead Senior Technical Writer with ownership of documentation for the AWS CDK. Rewrote and restructured this guide to improve cusotmer experience of learning and using the CDK and improve content for training LLMs.
+- For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide.
+
 [Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
 
 - This writing sample highlights my skills in writing Technical Documentation.
@@ -47,7 +52,18 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 ## Work Experience
 
-### System Administrator, Device Management Systems | Apple Inc. | June 2020 - Present
+### Senior Technical Writer, AWS Cloud Development Kit | Amazon Inc. | July 2022 - Present
+
+Lead writer for the AWS Cloud Development Kit (AWS CDK) Developer Guide and API Reference.
+
+Collaborate with engineers to create documentation for new features and bug fixes.
+
+Lead effort to rewrite and restructure documentation, creating a content delivery strategy to improve documentation for customer intake and training LLMs. 
+
+Develop real world CDK applications to document tutorials and validate documented code.
+Take ownership of documentation for AWS Serverless Application Model (AWS SAM) and AWS Application Composer to improve quality of documentation and mentor incoming writer.
+
+### System Administrator, Device Management Systems | Apple Inc. | June 2020 - July 2022
 
 Senior Administrator for Jamf Pro Mobile Device Management system, managing 1,000+ devices for team of 500+ personnel and providing top-level technical support.
 

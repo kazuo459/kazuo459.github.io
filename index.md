@@ -17,7 +17,7 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 [AWS Cloud Development Kit (AWS CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 
-- Lead Senior Technical Writer with ownership of documentation for the AWS CDK. Rewrote and restructured this guide to improve cusotmer experience of learning and using the CDK and improve content for training LLMs.
+- Lead Senior Technical Writer with ownership of documentation for the AWS CDK. Rewrote and restructured the Developer Guide to improve the user experience of getting started with the CDK and understanding how the service works. 
 - For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide.
 
 [Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
@@ -36,7 +36,7 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 [Python Jamf API Reference Guide](https://github.com/kazuo459/writing-samples/blob/main/python-jamf-api-guide.md)
 
-- This writing sample highlights my skills in writing Technical Documentation Reference Guides and in writing Python code to interface with the Jamf API.
+- This writing sample highlights my skills in writing Technical Documentation Reference Guides and in writing Python code to interact with the Jamf API.
 
 ### Coding Samples
 
@@ -61,6 +61,7 @@ Collaborate with engineers to create documentation for new features and bug fixe
 Lead effort to rewrite and restructure documentation, creating a content delivery strategy to improve documentation for customer intake and training LLMs. 
 
 Develop real world CDK applications to document tutorials and validate documented code.
+
 Take ownership of documentation for AWS Serverless Application Model (AWS SAM) and AWS Application Composer to improve quality of documentation and mentor incoming writer.
 
 ### System Administrator, Device Management Systems | Apple Inc. | June 2020 - July 2022

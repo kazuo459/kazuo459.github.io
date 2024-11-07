@@ -64,6 +64,8 @@ Develop real world CDK applications to document tutorials and validate documente
 
 Take ownership of documentation for AWS Serverless Application Model (AWS SAM) and AWS Application Composer to improve quality of documentation and mentor incoming writer.
 
+Author content in XML and deliver content through a content management system that follows a Documentation as Code approach to creating, managing, and publishing documentation. 
+
 ### System Administrator, Device Management Systems | Apple Inc. | June 2020 - July 2022
 
 Senior Administrator for Jamf Pro Mobile Device Management system, managing 1,000+ devices for team of 500+ personnel and providing top-level technical support.
@@ -133,13 +135,14 @@ Create in-house diagrams, summary guides, and announcements to inform entire sto
 - iWork
 - Jira
 - Learning Management Systems
-- MongoDB
+- MacOS automation
 - Project Management 
 - Python
 - Quip
 - Tableau
 - Technical Writing
-
+- XML
+  
 ## Certifications
 
 - Apple Certified Technician 

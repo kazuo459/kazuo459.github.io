@@ -18,7 +18,7 @@ I am a self-motivated and driven individual who loves learning, building solutio
 [AWS Cloud Development Kit (AWS CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 
 - Lead Senior Technical Writer with ownership of documentation for the AWS CDK. Rewrote and restructured the Developer Guide to improve the user experience of getting started with the CDK and understanding how the service works. 
-- For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide.
+- For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide. My contributions are made through my work-focused GitHub account (evzzk). 
 
 [Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
 
@@ -38,33 +38,37 @@ I am a self-motivated and driven individual who loves learning, building solutio
 
 - This writing sample highlights my skills in writing Technical Documentation Reference Guides and in writing Python code to interact with the Jamf API.
 
-### Coding Samples
-
-[Microblog Example](https://kazuo459-microblog.herokuapp.com) - Highlights my work with following technologies:
-- HTML/CSS
-- Python/Flask/Jinja2
-- Heroku
-- MongoDB
-
-[Additional Code Samples](https://github.com/kazuo459/portfolio-scripts)
-
-**Note:** All of my professional work up until this point is confidential. In my free time, I am working on highlighting and displaying my skills through my personal [Github](https://github.com/kazuo459) site.
-
 ## Work Experience
 
-### Senior Technical Writer, AWS Cloud Development Kit | Amazon Inc. | July 2022 - Present
+### Senior Technical Writer, AWS Cloud Development Kit | Amazon Inc. | January 2024 - Present
 
-Lead writer for the AWS Cloud Development Kit (AWS CDK) Developer Guide and API Reference.
+Lead writer for AWS Infrastructure as Code (IaC) technologies, specifically AWS Cloud Development Kit (AWS CDK).
 
-Collaborate with engineers to create documentation for new features and bug fixes.
+Write technical documentation for a global developer audience at AWS on content that received over a million views per month. 
 
-Lead effort to rewrite and restructure documentation, creating a content delivery strategy to improve documentation for customer intake and training LLMs. 
+Utilize Large Language Models (LLMs) to improve the efficiency and accuracy around content development. Specifically, use LLMs to generate starting templates, analyze content against our style guide, validate code samples, and identify content to improve. 
 
-Develop real world CDK applications to document tutorials and validate documented code.
+Collaborate with Software Development Engineers (SDMs), Product Managers (PMs), Solutions Architects (SAs), and users to develop and deliver technical documentation for the AWS CDK.
 
-Take ownership of documentation for AWS Serverless Application Model (AWS SAM) and AWS Application Composer to improve quality of documentation and mentor incoming writer.
+Develop, deploy, and test cloud applications written in TypeScript, JavaScript, Python, Java, C#, and Go to validate the features being documented and the code being used as examples. 
 
-Author content in XML and deliver content through a content management system that follows a Documentation as Code approach to creating, managing, and publishing documentation. 
+Author content using a Documentation as Code (DaC) approach to content management. This includes using Git for version control, authoring in XML, and deploying documentation through a pipeline that outputs source content to our website and GitHub repositories in formats such as HTML and Markdown.
+
+Mentor technical writers, specifically on the topics of: (1) Building strong cross-functional relationships with engineering teams; (2) Rewriting and restructuring content to create effective documentation for new and existing customers; (3) Project management, prioritization, and automation using internal ticketing systems and scripting; (4) Creating efficient processes to drafting, reviewing, and publishing documentation; and (5) Understanding how our cloud services work at AWS.
+
+### Senior Technical Writer, AWS Serverless Application Model and AWS Infrastructure Composer | Amazon Inc. | July 2022 - January 2024
+
+Lead writer for AWS Infrastructure as Code (IaC) technologies, specifically AWS Serverless Application Model (AWS SAM) and AWS Infrastructure Composer. 
+
+Write technical documentation for a global developer audience at AWS on content that received over 300k views per month.
+
+Collaborate with Software Development Engineers (SDMs), Product Managers (PMs), Solutions Architects (SAs), and users to develop and deliver technical documentation for AWS SAM and AWS Infrastructure Composer. 
+
+Develop, deploy, and test cloud applications to validate the features being documented and the code being used as examples. 
+
+Author content using a Documentation as Code (DaC) approach to content management. This includes using Git for version control, authoring in XML, and deploying documentation through a pipeline that outputs source content to our website and GitHub repositories in formats such as HTML and Markdown.
+
+Mentor technical writers, specifically on the topics of: (1) Building strong cross-functional relationships with engineering teams; (2) Project management and prioritization using internal ticketing systems; (3) Creating efficient processes to drafting, reviewing, and publishing documentation; and (4) Understanding how our cloud services work at AWS.
 
 ### System Administrator, Device Management Systems | Apple Inc. | June 2020 - July 2022
 
@@ -123,21 +127,24 @@ Create in-house diagrams, summary guides, and announcements to inform entire sto
 
 ## Skills
 
+- Adobe Analytics
 - Apple Hardware
 - Apple Software
-- Atlassian Systems
+- Atlassian Systems (Confluence, Jira)
 - Backend Technologies (Django, Flask, Jinja2)
+- Cloud technologies (AWS CDK, AWS SAM, AWS Infrastructure Composer)
 - Confluence
 - Content Management Systems
-- Frontend Technologies (HTML, CSS, Bootstrap, JavaScript, jQuery)
+- Frontend Technologies (HTML, CSS, Bootstrap, JavaScript)
 - Git, Github
 - Identity Management
 - iWork
 - Jira
 - Learning Management Systems
 - MacOS automation
+- Mobile Device Management with Jamf Pro and Apple School Manager
 - Project Management 
-- Python
+- Programming languages (JavaScript, Python, TypeScript, YAML)
 - Quip
 - Tableau
 - Technical Writing

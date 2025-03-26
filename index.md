@@ -1,11 +1,18 @@
 # Evan Kazuo Kuranishi
-Technical Writer | System Administrator | Developer
+Technical Writer | Systems Architect | Program Manager
 
 ## About Me
 
-I am a self-motivated and driven individual who loves learning, building solutions, and helping others succeed. Throughout my career, I’ve built Documentation systems, Device Management systems, and Learning Management systems, with a focus on security, simplicity, and scalability. I’ve excelled at both Technical Writing and Systems Administration due to my ability to learn quickly, document effectively, and build solutions that solves current needs with the foundation to solve future problems. My curiosity for detail-oriented learning has led to a love for coding, which helps me understand how things work and provides the opportunity to create specific solutions to unique challenges. I’m looking for new opportunities in remote-embracing companies with a mission to positively impact the world.
+Experienced and effective technical writer, program manager, and systems architect, with a background working
+with Learning & Development, Operations, and Engineering teams. Passionate about learning new technologies,
+improving processes, mentoring others, and ultimately providing internal and external customers with tools,
+solutions, and support. Throughout my career, I’ve quickly learned systems and technologies to become a subject
+matter expert, built effective and efficient processes, earned the respect of cross-functional stakeholders, and
+mentored teams and individuals.
 
 ## Contact
+
+To learn more about me, or for a copy of my resume, please contact me in any of the following ways:
 
 [Email](mailto:ekuranishi@gmail.com)
 
@@ -18,7 +25,8 @@ I am a self-motivated and driven individual who loves learning, building solutio
 [AWS Cloud Development Kit (AWS CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
 
 - Lead Senior Technical Writer with ownership of documentation for the AWS CDK. Rewrote and restructured the Developer Guide to improve the user experience of getting started with the CDK and understanding how the service works. 
-- For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide. My contributions are made through my work-focused GitHub account (evzzk). 
+- For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide. My contributions are made through my work-focused GitHub account (evzzk).
+- I've also contributed to the AWS CDK open-source project and documentation. For a log of my contributions, see my [commit history](https://github.com/search?q=author%3Aevzzk&type=commits&p=1) in my work-focused GitHub account.
 
 [Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
 

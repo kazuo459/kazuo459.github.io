@@ -80,7 +80,8 @@ To learn more about me, or for a copy of my resume, please contact me in any of 
 ## Certifications
 
 - Apple Certified iOS and macOS technician
-- AWS Certified Cloud Practitioner
+- AWS Certified Cloud Practitioner ([certification](https://www.credly.com/badges/3f2ed979-6422-40f7-b315-92fa0fd81672/linked_in?t=stgeva))
+- AWS Certified AI Practitioner ([certification](https://www.credly.com/badges/331519d4-36c5-4646-bac2-9ab7706ec599/linked_in?t=su5ley))
 - Jamf 100, 200, 300 Certified Admin 
 - Udemy: 100 Days of Code: The Complete Python Bootcamp
 - Udemy: The Git & Github Bootcamp

@@ -3,12 +3,15 @@ Technical Writer | Systems Architect | Program Manager
 
 ## About Me
 
-Experienced and effective technical writer, program manager, and systems architect, with a background working
-with Learning & Development, Operations, and Engineering teams. Passionate about learning new technologies,
-improving processes, mentoring others, and ultimately providing internal and external customers with tools,
-solutions, and support. Throughout my career, I’ve quickly learned systems and technologies to become a subject
-matter expert, built effective and efficient processes, earned the respect of cross-functional stakeholders, and
-mentored teams and individuals.
+**Program manager**, with a track record of delivering training solutions eﬃciently and eﬀectively in fast-paced, safety-critical environments. 
+
+**Technical writer**, experienced in writing both complex developer documentation and practical operational procedures for various audience types. 
+
+**Systems Architect**, with a history of introducing, integrating, and implementing Learning Management Systems, Content Management Systems, and Device Management Systems for Training and Operations teams. 
+
+Overall, I am most passionate about providing a foundation to see others succeed, while working on projects that bring a positive impact to humanity. Often, my contributions have included building effective documentation, efficient processes, and intuitive systems. 
+
+Throughout my career, I am most proud of the relationships I've built and the people I've helped to empower along the way. For an example of this impact, see the comments on my [farewell message](https://www.linkedin.com/posts/evankuranishi_this-friday-08012025-will-be-my-last-activity-7355652346770608130-sSmW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7MhTMBJgGuxaKZmoEtUszZzMpyhNUp76I) on LinkedIn, which I posted when leaving a recent role.
 
 ## Contact
 

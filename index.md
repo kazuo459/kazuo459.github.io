@@ -45,13 +45,11 @@ At AWS, I co-developed internal AI documentation tooling using Amazon Q, Q CLI, 
 
 ## Writing samples
 
-<!-- TODO: replace these placeholders with your existing sample links.
-     Tip: link to rendered pages (GitHub Pages or the live docs) rather than raw
-     .md files in a repo — the reading experience is part of the portfolio. -->
-
-- [AWS CDK Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/) — customer-facing developer documentation I owned and maintained
-- [Sample: PLACEHOLDER TITLE](#) — PLACEHOLDER description
-- [Sample: PLACEHOLDER TITLE](#) — PLACEHOLDER description
+- [AWS CDK Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/) — Customer-facing developer documentation I owned and maintained.
+- [Device Support Reference Guide](/samples/device-support-reference-guide/) — Example of a reference guide I created for administrators.
+- [Documentation Management Solution Proposal](/samples/ocumentation-management-proposal/) — Writing project proposal I created on developing an effective documentation management solution.
+- [Automating Reports for Jamf Pro Administrators](/samples/jamf-automating-reports-guide/) — Example of processes and documentation that I created to help automate report generation.
+- [Python Jamf API Reference Guide](/samples/python-jamf-api-guide/) — Example of reference material I create dfor supporting device administrators.
 
 ---
 
@@ -76,6 +74,6 @@ AWS Certified Cloud Practitioner · AWS Certified AI Practitioner · Jamf 100, 2
 ## Contact
 
 - **Email:** [ekuranishi@gmail.com](mailto:ekuranishi@gmail.com)
-- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) <!-- TODO: fill in -->
+- **LinkedIn:** [linkedin.com/in/evankuranishi](https://www.linkedin.com/in/evankuranishi)
 - **GitHub:** [github.com/kazuo459](https://github.com/kazuo459)
 - **Resume:** [Download PDF](/assets/Evan_Kuranishi_Resume.pdf)

@@ -1,96 +1,82 @@
+---
+layout: home
+title: ""
+---
+
 # Evan Kazuo Kuranishi
-Technical Writer | Systems Architect | Program Manager
 
-## About Me
+**Senior Technical Writer | Content & Systems Architect**
 
-**Program manager**, with a track record of delivering training solutions eﬃciently and eﬀectively in fast-paced, safety-critical environments. 
+I'm a curious learner and a helper at heart. I love digging into complex technology that helps people, then delivering it in a way that lets them use it, maximize it, and genuinely benefit from it. I write from the perspective of the user and the learner, and I pride myself on documentation that **provides and guides** — it provides exactly what's needed, and it guides readers to where they should go next.
 
-**Technical writer**, experienced in writing both complex developer documentation and practical operational procedures for various audience types. 
+Over the past nine years at AWS, Apple, and Waymo (via TaskUs), that philosophy has taken shape as developer documentation, docs-as-code pipelines, large-scale content migrations, and AI-assisted authoring workflows.
 
-**Systems Architect**, with a history of introducing, integrating, and implementing Learning Management Systems, Content Management Systems, and Device Management Systems for Training and Operations teams. 
+[Download my resume (PDF)](/assets/Evan_Kuranishi_Resume.pdf){: .resume-button }
 
-Overall, I am most passionate about providing a foundation to see others succeed, while working on projects that bring a positive impact to humanity. Often, my contributions have included building effective documentation, efficient processes, and intuitive systems. 
+---
 
-Throughout my career, I am most proud of the relationships I've built and the people I've helped to empower along the way. For an example of this impact, see the comments on my [farewell message](https://www.linkedin.com/posts/evankuranishi_this-friday-08012025-will-be-my-last-activity-7355652346770608130-sSmW?utm_source=share&utm_medium=member_desktop&rcm=ACoAAA7MhTMBJgGuxaKZmoEtUszZzMpyhNUp76I) on LinkedIn, which I posted when leaving a recent role.
+## Currently
 
-## Contact
+I'm serving as an independent Senior Systems & Content Architect with TaskUs, supporting Waymo's ride-hail operations. I advise on content management, structure, and process for the documentation that internal operations teams rely on, and I'm leading the end-to-end migration of 2,000+ articles across 12+ operations verticals and three countries into the Brightspot CMS — owning content strategy, partnering with the vendor on requirements and implementation, and training the system administrators and content authors who will run it.
 
-To learn more about me, or for a copy of my resume, please contact me in any of the following ways:
+I'm also putting AI to work in the content lifecycle: I recently used Google NotebookLM and prompt engineering to distill 100+ documents and training decks into a structured requirements database that now serves as the source of truth for our documentation and training objectives.
 
-[Email](mailto:ekuranishi@gmail.com)
+---
 
-[LinkedIn](https://www.linkedin.com/in/evankuranishi)
+## Selected work
 
-## Links
+### Rearchitecting the AWS CDK documentation pipeline
 
-### Writing Samples
+At AWS, I owned the [AWS Cloud Development Kit (CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/) — over 100K weekly views from developers worldwide. I rearchitected its content pipeline into a true docs-as-code model: a single source of truth in GitHub, AsciiDoc under version control, and pull-request-based review aligned with engineering workflows. Draft-to-publish throughput improved 50%, and engineers became genuine contributors to the docs rather than reluctant reviewers. My work is publicly visible in the [guide's GitHub commit history](https://github.com/awsdocs/aws-cdk-guide).
+<!-- TODO: verify both links resolve, and consider linking directly to your commits: https://github.com/awsdocs/aws-cdk-guide/commits?author=YOUR_GITHUB_USERNAME -->
 
-[AWS Cloud Development Kit (AWS CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/home.html)
+### Lifting underperforming developer guides
 
-- Lead Senior Technical Writer with ownership of documentation for the AWS CDK. Rewrote and restructured the Developer Guide to improve the user experience of getting started with the CDK and understanding how the service works. 
-- For a detailed history of my contributions to this guide, see the [commit history](https://github.com/awsdocs/aws-cdk-guide/commits/main/) in the GitHub version of the Developer Guide. My contributions are made through my work-focused GitHub account (evzzk).
-- I've also contributed to the AWS CDK open-source project and documentation. For a log of my contributions, see my [commit history](https://github.com/search?q=author%3Aevzzk&type=commits&p=1) in my work-focused GitHub account.
+I rewrote and restructured a set of low-performing AWS developer guides using my framework of intentional, intuitive, and integrated content — lifting their customer satisfaction scores from the bottom 30% to the top 30% across all of AWS.
 
-[Automating Reports for Jamf Pro Administrators](https://github.com/kazuo459/writing-samples/blob/main/automating-reports-for-jamf-pro-administrators.md)
+### Large-scale information architecture & migrations
 
-- This writing sample highlights my skills in writing Technical Documentation.
-- For this exercise, I guide a reader through steps required to build a basic Python application to begin gathering and automating reports. 
+Content migrations have been a throughline of my career: 10,000+ articles across 10 lines of business consolidated into a single Confluence CMS at Apple Maps, and the 2,000+ article Brightspot migration I'm leading today for Waymo operations.
 
-[Device Support Reference Guide](https://github.com/kazuo459/writing-samples/blob/main/device-support-reference-guide.md)
+### Agentic AI documentation workflows
 
-- This writing sample is a small excerpt of a Reference Guide I created. 
-- The audience of this Reference Guide is Jr. Administrators, and its purpose is to provide a quick guide for common troubleshooting tasks that are performed. 
+At AWS, I co-developed internal AI documentation tooling using Amazon Q, Q CLI, Cline, and Amazon Bedrock — designing agentic workflows where role-based agents (author, editor, subject-matter expert) gathered their own context through RAG and database-integrated scripts, with a human in the loop for quality at every step.
 
-[Documentation Management Solution](https://github.com/kazuo459/writing-samples/blob/main/documentation-management-solution.md)
+---
 
-- This writing sample highlights my skills in writing Process Documentation.
+## Writing samples
 
-[Python Jamf API Reference Guide](https://github.com/kazuo459/writing-samples/blob/main/python-jamf-api-guide.md)
+<!-- TODO: replace these placeholders with your existing sample links.
+     Tip: link to rendered pages (GitHub Pages or the live docs) rather than raw
+     .md files in a repo — the reading experience is part of the portfolio. -->
 
-- This writing sample highlights my skills in writing Technical Documentation Reference Guides and in writing Python code to interact with the Jamf API.
+- [AWS CDK Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/) — customer-facing developer documentation I owned and maintained
+- [Sample: PLACEHOLDER TITLE](#) — PLACEHOLDER description
+- [Sample: PLACEHOLDER TITLE](#) — PLACEHOLDER description
+
+---
 
 ## Skills
 
-### Technologies
-- Backend Technologies (Django, Flask, Jinja2)
-- Cloud technologies (AWS CDK, AWS SAM, AWS Infrastructure Composer)
-- Frontend Technologies (HTML, CSS, Bootstrap, JavaScript)
-- Git, Github for source control
-- Identity and Access Management
-- Implementing Documentation as Code
-- MacOS automation
-- Programming languages (JavaScript, Markdown, Python, TypeScript, XML, YAML)
+**Authoring & docs-as-code:** Markdown, HTML, AsciiDoc, XML, YAML · Git & GitHub, VS Code · pull-request-based review · style guides, templates, information architecture
 
+**Programming & cloud:** Python, TypeScript, CSS · AWS cloud technologies & infrastructure as code (AWS CDK)
 
-### Systems
-- Adobe Analytics
-- Apple Hardware
-- Apple Software
-- Atlassian Systems (Confluence, Jira)
-- Content Management Systems
-- Learning Management Systems
-- Mobile Device Management with Jamf Pro and Apple School Manager
-- Quip
-- Slack
-- Tableau
+**Generative AI:** prompt engineering, context management, RAG knowledge bases, agentic workflows & role-based agents, human-in-the-loop review · Amazon Q & Q CLI, Amazon Bedrock, Cline, Google NotebookLM
 
-### Programs & People
-- Mentoring and training
-- Process improvement
-- Project Management
-- Sprint planning and implementation
-  
+**Content systems & analytics:** Brightspot CMS, Confluence, Jira, learning management systems, Jamf · Adobe Analytics, Tableau
+
+---
+
 ## Certifications
 
-- Apple Certified iOS and macOS technician
-- AWS Certified Cloud Practitioner ([certification](https://www.credly.com/badges/3f2ed979-6422-40f7-b315-92fa0fd81672/linked_in?t=stgeva))
-- AWS Certified AI Practitioner ([certification](https://www.credly.com/badges/331519d4-36c5-4646-bac2-9ab7706ec599/linked_in?t=su5ley))
-- Jamf 100, 200, 300 Certified Admin 
-- Udemy: 100 Days of Code: The Complete Python Bootcamp
-- Udemy: The Git & Github Bootcamp
-- Udemy: Web Developer Bootcamp with Flask and Python
+AWS Certified Cloud Practitioner · AWS Certified AI Practitioner · Jamf 100, 200 & 300 · Apple Certified iOS & macOS Technician
 
-## Education
+---
 
-- B.A. in Business Entrepreneurship - University of Hawaii at Manoa
-- Liberal Arts - Leeward Community College
+## Contact
+
+- **Email:** [ekuranishi@gmail.com](mailto:ekuranishi@gmail.com)
+- **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) <!-- TODO: fill in -->
+- **GitHub:** [github.com/kazuo459](https://github.com/kazuo459)
+- **Resume:** [Download PDF](/assets/Evan_Kuranishi_Resume.pdf)

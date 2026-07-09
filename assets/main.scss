@@ -116,3 +116,8 @@ li {
   body { font-size: 16px; }
   h1 { font-size: 1.7rem; }
 }
+
+/* Hide auto-generated page nav — samples are linked from the homepage */
+.site-nav {
+  display: none;
+}

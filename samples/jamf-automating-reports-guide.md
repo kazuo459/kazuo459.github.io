@@ -4,8 +4,6 @@ title: "Automating Reports for Jamf Pro Administrators"
 permalink: /samples/jamf-automating-reports-guide/
 ---
 
-# Automating Reports for Jamf Pro Administrators
-
 # Overview
 
 The **Automating Reports for Jamf Pro Administrators** Guide provides an introductory-level walkthrough for Jamf Administrators regarding the utilization of the Jamf API in order to automate reporting within your organizations. 

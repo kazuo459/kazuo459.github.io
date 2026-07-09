@@ -4,8 +4,6 @@ title: "Device Support Reference Guide"
 permalink: /samples/device-support-reference-guide/
 ---
 
-# Device Support Reference Guide
-
 # Overview
 
 This document provides general guidance to Device Administrators within any organization.

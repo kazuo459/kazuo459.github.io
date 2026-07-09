@@ -27,8 +27,7 @@ I'm also putting AI to work in the content lifecycle: I recently used Google Not
 
 ### Rearchitecting the AWS CDK documentation pipeline
 
-At AWS, I owned the [AWS Cloud Development Kit (CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/) — over 100K weekly views from developers worldwide. I rearchitected its content pipeline into a true docs-as-code model: a single source of truth in GitHub, AsciiDoc under version control, and pull-request-based review aligned with engineering workflows. Draft-to-publish throughput improved 50%, and engineers became genuine contributors to the docs rather than reluctant reviewers. My work is publicly visible in the [guide's GitHub commit history](https://github.com/awsdocs/aws-cdk-guide).
-<!-- TODO: verify both links resolve, and consider linking directly to your commits: https://github.com/awsdocs/aws-cdk-guide/commits?author=YOUR_GITHUB_USERNAME -->
+At AWS, I owned the [AWS Cloud Development Kit (CDK) Developer Guide](https://docs.aws.amazon.com/cdk/v2/guide/) — over 100K weekly views from developers worldwide. I rearchitected its content pipeline into a true docs-as-code model: a single source of truth in GitHub, AsciiDoc under version control, and pull-request-based review aligned with engineering workflows. Draft-to-publish throughput improved 50%, and engineers became genuine contributors to the docs rather than reluctant reviewers. My work is publicly visible in the [guide's GitHub commit history]([https://github.com/awsdocs/aws-cdk-guide](https://github.com/awsdocs/aws-cdk-guide/commits?author=evzzk)).
 
 ### Lifting underperforming developer guides
 

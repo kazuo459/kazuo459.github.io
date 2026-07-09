@@ -5,7 +5,7 @@ title: ""
 
 # Evan Kazuo Kuranishi
 
-**Senior Technical Writer | Content & Systems Architect**
+**Senior Technical Writer · Content & Systems Architect**
 
 I'm a curious learner and a helper at heart. I love digging into complex technology that helps people, then delivering it in a way that lets them use it, maximize it, and genuinely benefit from it. I write from the perspective of the user and the learner, and I pride myself on documentation that **provides and guides** — it provides exactly what's needed, and it guides readers to where they should go next.
 

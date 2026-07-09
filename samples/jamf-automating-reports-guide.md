@@ -28,11 +28,11 @@ To dive deeper into those topics, explore resources in the next section.
 
 ## Resources
 
-- [Amazon | What is an API?](https://aws.amazon.com/what-is/api/)
-- [Jamf | API Reference Guide (v10.38.0)](https://developer.jamf.com/jamf-pro/reference/jamf-pro-api)
-- [Jamf | Training and Certifications](https://www.jamf.com/training/)
-- [Jamf | Administrator's Gudie (v10.29.0)](https://docs.jamf.com/10.29.0/jamf-pro/administrator-guide/About_This_Guide.html)
-- [Python | Documentation(v3.10.4)](https://docs.python.org/3/)
+- [Amazon - What is an API?](https://aws.amazon.com/what-is/api/)
+- [Jamf - API Reference Guide (v10.38.0)](https://developer.jamf.com/jamf-pro/reference/jamf-pro-api)
+- [Jamf - Training and Certifications](https://www.jamf.com/training/)
+- [Jamf - Administrator's Gudie (v10.29.0)](https://docs.jamf.com/10.29.0/jamf-pro/administrator-guide/About_This_Guide.html)
+- [Python - Documentation(v3.10.4)](https://docs.python.org/3/)
 
 # Building the Application
 

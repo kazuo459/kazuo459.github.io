@@ -4,16 +4,11 @@ title: "Python Jamf API Reference Guide"
 permalink: /samples/python-jamf-api-guide/
 ---
 
-# Python Jamf API Reference Guide
-
-
 # Overview
 
 The **Python Jamf API Reference Guide**, created by [Evan Kuranishi](https://kazuo459.github.io), provides reference documentation regarding usage of the Jamf API via the Python Requests module.
 
-
 # The Jamf API
-
 
 Jamf provides two API services to Jamf Administrators. More information can be found below:
 
@@ -22,14 +17,11 @@ Jamf provides two API services to Jamf Administrators. More information can be f
     - [Jamf Classic API Endpoint Documentation](https://developer.jamf.com/jamf-pro/reference/classic-api)
     - [Jamf Classic API Code Examples](https://developer.jamf.com/jamf-pro/docs/code-samples)
 
-
 - **Jamf Pro API**
     - [Jamf Pro API Overview](https://developer.jamf.com/jamf-pro/docs/jamf-pro-api-overview)
     - [Jamf Pro API Endpoint Documentation](https://developer.jamf.com/jamf-pro/reference/jamf-pro-api)
 
-
 # The Request Module
-
 
 ## Install Requests
 
@@ -54,15 +46,11 @@ USERNAME = "<insert_your_jamf_username>"
 PASSWORD = input("Enter your password: ")
 ```
 
-
 # Request Functions
-
 
 **Request functions** are the starting point to begin interacting with your Jamf API. These functions will handle GET, POST, PUT, and DELETE requests.
 
-
 ## Jamf Classic Request Functions
-
 
 ### DELETE Request -> XML
 
